@@ -8,9 +8,9 @@ docker run --name openhmis-test --link openmrs-mysql:mysql -it -p 8080:8080 open
 
 **Initial setup:**
 
-Check that tomcat is running in [http://localhost:8080].
+Check that tomcat is running in http://localhost:8080
 
-Go to [http://localhost:8080]
+Go to http://localhost:8080
 
 Select Advanced installation
 
